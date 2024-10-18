@@ -10,6 +10,7 @@
     "prisma:dev": "dotenv -e .env.development.local -- prisma"
   },
   "dependencies": {
+    "@prisma/client": "^5.21.1",
     "next": "14.2.15",
     "react": "^18",
     "react-dom": "^18"
